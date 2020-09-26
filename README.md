@@ -7,7 +7,6 @@
 - ⚙️ I use daily: `Python`, `NumPy`, `Pandas`, `matplotlib`, `Seaborn`, `SciPy`
 - 👯 I’m looking to collaborate on machine learning projects.
 - 🤔 I’m looking for sources to deliberately practice statisitics to be a better Data Science Practioner.
-- 💬 Ask me about ...
 - 📫 How to reach me: christopher.logan.ortiz@gmail.com
 - ⚡ Fun fact: Eternal life is pretty dope.
 
