@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 📖 I'm currently studying Data Science at [Codeup](https://codeup.com/)
+- 📖 I'm currently studying Data Science at [Codeup](https://codeup.com/).
 - 🔭 I’m currently working on a [Regression Project](https://github.com/Robust-Analytics/zillow-project) to predict the market value of single family homes.
 - 🌱 I’m currently learning [Regression](https://github.com/Promeos/regression-exercises) Models using `sklearn`, and [PyTorch](https://github.com/Promeos/pytorch-intro) fundamentals. 
 - ⚙️ I use daily: `Python`, `NumPy`, `Pandas`, `sklearn`
