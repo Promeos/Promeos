@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Chris. I want to improve the quality of peoples lives by gleaning actionable insights from data. Business questions that boil down to: "How can I earn more revenue from a customer?" or "How can I predict x (that negatively impacts the customer)?" bore me and lack ethical reasoning. If the question/purpose is focused on the people, you have my attention.
+My name is Chris. I want to improve the quality of peoples lives by gleaning actionable insights from data. Business questions that boil down to: "How can I earn more revenue from a customer?" bore me. If the question/purpose is focused on the people, you have my attention.
 
 
 - 📖 I'm currently studying Data Science at [Codeup](https://codeup.com/).
