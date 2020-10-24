@@ -4,10 +4,9 @@ My name is Chris. I seek to improve the quality of peoples lives by gleaning act
 
 
 - 📖 I'm currently studying Data Science at [Codeup](https://codeup.com/).
-- 🌱 I’m currently learning [PyTorch](https://github.com/Promeos/pytorch-intro) fundamentals.
+- 🌱 I’m currently learning [PyTorch](https://github.com/Promeos/pytorch-intro) fundamentals and and [Practical Statistics](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962)
 - 🧾 I'm currently exploring parking citation data from Los Angeles county.
 - ⚙️ I use daily: `Python`, `NumPy`, `Pandas`, `sklearn`
-- 📙 I'm currently reading [Think Stats](http://greenteapress.com/thinkstats/) and [Practical Statistics](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962).
 - 📫 How to reach me: christopher.logan.ortiz@gmail.com
 - ⚡ Fun fact: ♾ is humbling.
 
