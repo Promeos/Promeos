@@ -4,5 +4,5 @@
 - ⚙️ I use daily: `Python,` `NumPy`, `Pandas`.
 - 🥋 I'm practicing `SQL` on datacamp.
 - 📙 I'm reading the docs.
-- 🎧 Recently listened to the audiobook "Greenlights" by Matthew McConaughey. 5/5
+- 🎧 Recently listened to the audiobook "Think Again" by Adam Grant. 4/5
 - ⚡ Fun fact: Eternal life is.
