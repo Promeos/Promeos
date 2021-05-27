@@ -1,6 +1,6 @@
 ![Profile-Header](profile_readme.png)
 
-- 🥋 I'm learning advanced Python on DataCamp. Check out my [progress](https://www.datacamp.com/profile/christopherloganortiz). Current Streak as of 5/26/2021: 35 days 
+- 🥋 I'm learning advanced Python on DataCamp. Check out my [progress](https://www.datacamp.com/profile/christopherloganortiz). Current Streak as of 5/27/2021: 36 days 
 - 📙 I'm reading the docs.
 - ⚡ Fun fact: Eternal life is.
 
