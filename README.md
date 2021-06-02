@@ -1,8 +1,3 @@
-- 🥋 I'm learning advanced Python on DataCamp. Check out my [progress](https://www.datacamp.com/profile/christopherloganortiz). Current Streak as of 5/27/2021: 36 days 
-- 📙 I'm reading the docs.
-- ⚡ Fun fact: Eternal life is.
-<img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="100">
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Promeos&show_icons=true)
 
 ## *Languages and Tools* 
