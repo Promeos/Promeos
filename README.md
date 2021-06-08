@@ -6,5 +6,5 @@
 ## *Let's Connect*
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/christopherlortiz/)
 
-## Employment
+## *Employment*
 I am open to work, view my resume [here](https://github.com/Promeos/Promeos/blob/master/christopher_logan_ortiz_resume.pdf).
