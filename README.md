@@ -9,6 +9,10 @@
   <a href="https://twitter.com/Promeos42">
     <img alt="Twitter" src="https://img.shields.io/badge/@Promeos42-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
+  <a href="https://www.datacamp.com/profile/christopherloganortiz">
+    <img alt="DataCamp" src="https://img.shields.io/static/v1?style=for-the-badge&message=DataCamp&color=222222&logo=DataCamp&logoColor=03EF62&label"/>
+  </a>
+   
 </p>
 
 <p align='center'>
